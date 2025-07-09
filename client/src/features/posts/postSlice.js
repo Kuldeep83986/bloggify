@@ -3,12 +3,12 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
 export const fetchPosts = createAsyncThunk('posts/fetchPosts', async () => {
-  const response = await axios.get('http://localhost:8080/api/posts');
+  const response = await axios.get('https://bloggify-10xw.onrender.com/api/posts');
   return response.data;
 });
 
 export const fetchPostById = createAsyncThunk('posts/fetchPostById', async (id) => {
-  const response = await axios.get(`http://localhost:8080/api/posts/${id}`);
+  const response = await axios.get(`https://bloggify-10xw.onrender.com/api/posts/${id}`);
   return response.data;
 });
 

@@ -10,7 +10,7 @@ function safeParseJSON(item) {
 }
 
 const instance = axios.create({
-  baseURL: 'http://localhost:8080/api', // your backend URL
+  baseURL: 'https://bloggify-10xw.onrender.com/api', // your backend URL
 });
 
 // Attach token automatically
