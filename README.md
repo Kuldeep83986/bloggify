@@ -21,7 +21,7 @@ A full-stack blogging platform where an admin can manage posts and users, and an
 
 ## Deployed Link
 
-[Live Demo](https://dancing-medovik-2e80c4.netlify.app/)
+[Live Demo](https://bloggify-gamma.vercel.app/)
 
 ## Setup Instructions
 
@@ -83,7 +83,7 @@ A full-stack blogging platform where an admin can manage posts and users, and an
     ```
 
 4. Visit the app in your browser:  
-   `http://localhost:3000` or deployed version [here](https://dancing-medovik-2e80c4.netlify.app/)
+   `http://localhost:3000` or deployed version [here](https://bloggify-gamma.vercel.app/)
 
 ---
 
