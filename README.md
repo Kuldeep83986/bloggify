@@ -2,6 +2,12 @@
 
 A full-stack blogging platform where an admin can manage posts and users, and anyone can read articles and comment on posts.
 
+<img width="1908" height="872" alt="image" src="https://github.com/user-attachments/assets/e8ed0fc1-411a-4c17-8333-79adf085b343" />
+<img width="1898" height="852" alt="image" src="https://github.com/user-attachments/assets/26dcd1a5-2aff-4d58-841a-e49015053473" />
+<img width="1897" height="765" alt="image" src="https://github.com/user-attachments/assets/eaf3e6c4-5eab-462c-8762-212509ec3174" />
+<img width="1898" height="865" alt="image" src="https://github.com/user-attachments/assets/c8c4af6c-89b2-4a2f-a66b-f1f8d515d084" />
+
+
 ## Features
 
 - Admin login and authentication  
